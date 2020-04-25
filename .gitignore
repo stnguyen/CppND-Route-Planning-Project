@@ -6,3 +6,5 @@ test.cpp
 build/
 bin/
 lib/
+buildX/
+thirdparty/P0267_RefImpl/
